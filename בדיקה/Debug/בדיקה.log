@@ -1,0 +1,12 @@
+﻿  בדיקה.cpp
+c:\users\user\desktop\אהובה\בדיקה\בדיקה\בדיקה.cpp(4): warning C4603: 't': macro is not defined or definition is different after precompiled header use
+  c:\users\user\desktop\אהובה\בדיקה\בדיקה\בדיקה.cpp(4): note: Add macro to precompiled header instead of defining here
+  c:\users\user\desktop\אהובה\בדיקה\בדיקה\בדיקה.cpp(7): note: use of precompiled header
+c:\users\user\desktop\אהובה\בדיקה\בדיקה\בדיקה.cpp(5): warning C4603: 'f': macro is not defined or definition is different after precompiled header use
+  c:\users\user\desktop\אהובה\בדיקה\בדיקה\בדיקה.cpp(5): note: Add macro to precompiled header instead of defining here
+  c:\users\user\desktop\אהובה\בדיקה\בדיקה\בדיקה.cpp(7): note: use of precompiled header
+c:\users\user\desktop\אהובה\בדיקה\בדיקה\בדיקה.cpp(6): warning C4603: 'g': macro is not defined or definition is different after precompiled header use
+  c:\users\user\desktop\אהובה\בדיקה\בדיקה\בדיקה.cpp(6): note: Add macro to precompiled header instead of defining here
+  c:\users\user\desktop\אהובה\בדיקה\בדיקה\בדיקה.cpp(7): note: use of precompiled header
+c:\users\user\desktop\אהובה\בדיקה\בדיקה\בדיקה.cpp(17): error C3861: 'f': identifier not found
+c:\users\user\desktop\אהובה\בדיקה\בדיקה\בדיקה.cpp(17): error C3861: 'g': identifier not found
